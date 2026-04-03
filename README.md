@@ -1,5 +1,38 @@
-# 💫 About Me:
-I am Huzaifaahmedbhutto student of computer science -1 with 2+years of experience<br> frontend, backend and core languages : python, java ,Javascript, node.js,<br>c, c++, sql , css, html.<br>framework : Djanjo, Express.js, SpringBoot<br>Database : PostgreSQL, MangoDB, MySQl<br>Cloud and DevOps : AWS, Docker, Git/Github, JiRA , opsgenie, Grafana 
+# 👋 Hi, I’m Huzaifa Ahmed Bhutto
+
+🎓 **CS Student (Year 1)** | 💻 **2+ Years of Dev Experience**  
+🌍 Pakistan · Open to collaborations & internships
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+Python · Java · JavaScript · Node.js · C · C++ · SQL · CSS · HTML
+
+**Frameworks**  
+Django · Express.js · Spring Boot
+
+**Databases**  
+PostgreSQL · MongoDB · MySQL
+
+**Cloud & DevOps**  
+AWS · Docker · Git/GitHub · Jira · Opsgenie · Grafana
+
+---
+
+## 🚀 About Me
+
+- Full-stack developer with production-level experience before starting my degree.
+- Passionate about building scalable systems and clean APIs.
+- Strong monitoring & incident management exposure via Grafana & Opsgenie.
+
+---
+
+## 📫 Let’s Connect
+
+[GitHub](https://github.com/HuzaifaAhmedBhutto) · [LinkedIn](https://linkedin.com/in/HuzaifaAhmedBhutto)  
+📧 huzaifa.bhutto@example.com *(replace with your real email)*
 
 
 ## 🌐 Socials:
