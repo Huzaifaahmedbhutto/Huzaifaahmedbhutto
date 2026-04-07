@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Huzaifa Ahmed Bhutto
 
-🎓 **CS Student (Year 1)** | 💻 **2+ Years of Dev Experience**  
+🎓 **CS Student (2 Year)** | 💻 **2 Years of Dev Experience**  
 🌍 Pakistan · Open to collaborations & internships
 
 ---
