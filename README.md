@@ -323,3 +323,12 @@
 </div>
 </body>
 </html>
+
+
+
+## 🚀 My Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎮 Number Guessing Game | Python game with 3 levels & hints | [GitHub](https://github.com/Huzaifaahmedbhutto/number-guessing-game) |
+| 📊 Student Grade Calculator | Grade calculator with remarks | [GitHub](https://github.com/Huzaifaahmedbhutto/students-grade-calculator) |
