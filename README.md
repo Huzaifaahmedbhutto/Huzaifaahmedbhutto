@@ -143,13 +143,13 @@
   <!-- BADGES (visitor, followers, repos, stars, commits) -->
   <div class="badge-group">
     <a href="https://visitorbadge.io/status?path=kiranShamsHere">
-      <img src="https://api.visitorbadge.io/api/visitors?path=kiranShamsHere&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
+      <img src="https://api.visitorbadge.io/api/visitors?path=HuzaifaahmedbhuttoHere&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
     </a>
-    <a href="https://github.com/HuzaifaahmedbhuttoHere">
-      <img alt="Followers" src="https://img.shields.io/github/followers/HuzaifaahmedbhuttoHere?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Followers" src="https://img.shields.io/github/followers/Huzaifaahmedbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
     </a>
-    <a href="https://github.com/HuzaifaahmedbhuttoHere?tab=repositories">
-      <img alt="Repos" src="https://badges.strrl.dev/repos/HuzaifaahmedbhuttoHere?color=%238A2BE2&style=for-the-badge&label=Repos">
+    <a href="https://github.com/Huzaifaahmedbhutto?tab=repositories">
+      <img alt="Repos" src="https://badges.strrl.dev/repos/Huzaifaahmedbhutto?color=%238A2BE2&style=for-the-badge&label=Repos">
     </a>
     <a href="https://github.com/HuzaifaahmedbhuttoHere">
       <img alt="Stars" src="https://img.shields.io/github/stars/HuzaifaahmedbhuttoHere?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
