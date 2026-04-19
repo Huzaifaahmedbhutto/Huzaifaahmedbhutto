@@ -142,8 +142,8 @@
 
   <!-- BADGES (visitor, followers, repos, stars, commits) -->
   <div class="badge-group">
-    <a href="https://visitorbadge.io/status?path=kiranShamsHere">
-      <img src="https://api.visitorbadge.io/api/visitors?path=HuzaifaahmedbhuttoHere&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
+    <a href="https://visitorbadge.io/status?path=Huzaifaahmedbhutto">
+      <img src="https://api.visitorbadge.io/api/visitors?path=Huzaifaahmedbhutto&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
     </a>
     <a href="https://github.com/Huzaifaahmedbhutto">
       <img alt="Followers" src="https://img.shields.io/github/followers/Huzaifaahmedbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
@@ -151,11 +151,11 @@
     <a href="https://github.com/Huzaifaahmedbhutto?tab=repositories">
       <img alt="Repos" src="https://badges.strrl.dev/repos/Huzaifaahmedbhutto?color=%238A2BE2&style=for-the-badge&label=Repos">
     </a>
-    <a href="https://github.com/HuzaifaahmedbhuttoHere">
-      <img alt="Stars" src="https://img.shields.io/github/stars/HuzaifaahmedbhuttoHere?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Stars" src="https://img.shields.io/github/stars/Huzaifaahmedbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
     </a>
-    <a href="https://github.com/HuzaifaahmedbhuttoHere">
-      <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/HuzaifaahmedbhuttoHere?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/Huzaifaahmedbhutto?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
     </a>
   </div>
 
@@ -166,7 +166,7 @@
   <div class="badge-group">
     <a href="https://www.linkedin.com/in/Huzaifa-Ahmed-Bhutto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:ahmedhuzaifa201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/HuzaifahmedbhuttoHere"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/Huzaifahmedbhutto"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.facebook.com/share/xtylishbhutto580@gmail.com/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/Huzaifa-Ahmed-Bhutto/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://https://x.com/XBhutto12427"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -250,23 +250,23 @@
   <!-- GITHUB STATS -->
   <h2>⚡ GitHub Stats</h2>
   <div class="stats-grid">
-    <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaahmedbhuttoHere&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HuzaifaahmedbhuttoHere&theme=midnight-purple" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Huzaifaahmedbhutto&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Huzaifaahmedbhutto&theme=midnight-purple" alt="GitHub Streak" />
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaahmedbhuttoHere&layout=compact&theme=midnight-purple" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifaahmedbhutto&layout=compact&theme=midnight-purple" alt="Top Languages" />
   </div>
 
   <!-- TROPHIES -->
   <h2>🏆 GitHub Trophies</h2>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=HuzaifaahmedbhuttoHere&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Huzaifaahmedbhutto&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" width="100%" />
   </div>
 
   <!-- CONTRIBUTION GRAPH -->
   <h2>📈 My GitHub Contribution Graph</h2>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaahmedbhuttoHere&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 900px; border-radius: 16px;" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaahmedbhutto&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 900px; border-radius: 16px;" alt="GitHub Activity Graph" />
   </div>
 
   <hr>
@@ -293,12 +293,12 @@
 
   <!-- FAVORITE REPOS -->
   <h2>⭐ My Favorite GitHub Repos</h2>
-  <p>See <a href="https://github.com/HuzaifaahmedbhuttoHere/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.</p>
+  <p>See <a href="https://github.com/Huzaifaahmedbhutto/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.</p>
 
   <!-- SNAKE GIF -->
   <h2>🐍 My GitHub Contributions</h2>
   <div align="center">
-    <img src="https://github.com/HuzaifaahmedbhuttoHere/HuzaifaahmedbhuttoHere/blob/output/github-snake.svg" alt="snake gif" style="max-width:100%; background:#0a0c15; border-radius: 20px;" />
+    <img src="https://github.com/Huzaifaahmedbhutto/Huzaifaahmedbhutto/blob/output/github-snake.svg" alt="snake gif" style="max-width:100%; background:#0a0c15; border-radius: 20px;" />
   </div>
 
   <hr>
