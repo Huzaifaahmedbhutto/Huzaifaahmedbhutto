@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Huzaifaahemdbhutto · GitHub Profile</title>
+  <title>Huzaifaahmedbhutto · GitHub Profile</title>
   <!-- Google Fonts & simple styling to ensure clean rendering on GitHub's README preview -->
   <style>
     * {
@@ -142,20 +142,20 @@
 
   <!-- BADGES (visitor, followers, repos, stars, commits) -->
   <div class="badge-group">
-    <a href="https://visitorbadge.io/status?path=Huzaifaahemdbhutto">
-      <img src="https://api.visitorbadge.io/api/visitors?path=Huzaifaahemdbhutto&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
+    <a href="https://visitorbadge.io/status?path=Huzaifaahmedbhutto">
+      <img src="https://api.visitorbadge.io/api/visitors?path=Huzaifaahmedbhutto&label=Profile%20Views&countColor=%238A2BE2" alt="visitor badge" />
     </a>
-    <a href="https://github.com/Huzaifaahemdbhutto">
-      <img alt="Followers" src="https://img.shields.io/github/followers/Huzaifaahemdbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Followers" src="https://img.shields.io/github/followers/Huzaifaahmedbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
     </a>
-    <a href="https://github.com/Huzaifaahemdbhutto?tab=repositories">
-      <img alt="Repos" src="https://badges.strrl.dev/repos/Huzaifaahemdbhutto?color=%238A2BE2&style=for-the-badge&label=Repos">
+    <a href="https://github.com/Huzaifaahmedbhutto?tab=repositories">
+      <img alt="Repos" src="https://badges.strrl.dev/repos/Huzaifaahmedbhutto?color=%238A2BE2&style=for-the-badge&label=Repos">
     </a>
-    <a href="https://github.com/Huzaifaahemdbhutto">
-      <img alt="Stars" src="https://img.shields.io/github/stars/Huzaifaahemdbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Stars" src="https://img.shields.io/github/stars/Huzaifaahmedbhutto?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
     </a>
-    <a href="https://github.com/Huzaifaahemdbhutto">
-      <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/Huzaifaahemdbhutto?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+    <a href="https://github.com/Huzaifaahmedbhutto">
+      <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/Huzaifaahmedbhutto?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
     </a>
   </div>
 
@@ -170,7 +170,7 @@
     <a href="https://www.facebook.com/share/xtylishbhutto580@gmail.com/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/Huzaifa-Ahmed-Bhutto/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://https://x.com/XBhutto12427"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href=https://codepen.io/Huzaifaahemdbhutto"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a>
+    <a href=https://codepen.io/Huzaifaahmedbhutto"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a>
     <a href="https://www.behance.net/Huzaifa Ahmed"><img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white"/></a>
     <a href="https://dribbble.com/Huzaifa Ahmed"><img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/></a>
     <a href="https://www.pinterest.com/xtylishbhutto/"><img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"/></a>
@@ -250,23 +250,23 @@
   <!-- GITHUB STATS -->
   <h2>⚡ GitHub Stats</h2>
   <div class="stats-grid">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huzaifaahemdbhutto&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Huzaifaahemdbhutto&theme=midnight-purple" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Huzaifaahmedbhutto&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Huzaifaahmedbhutto&theme=midnight-purple" alt="GitHub Streak" />
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifaahemdbhutto&layout=compact&theme=midnight-purple" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifaahmedbhutto&layout=compact&theme=midnight-purple" alt="Top Languages" />
   </div>
 
   <!-- TROPHIES -->
   <h2>🏆 GitHub Trophies</h2>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Huzaifaahemdbhutto&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Huzaifaahmedbhutto&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" width="100%" />
   </div>
 
   <!-- CONTRIBUTION GRAPH -->
   <h2>📈 My GitHub Contribution Graph</h2>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaahemdbhutto&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 900px; border-radius: 16px;" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaahmedbhutto&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 900px; border-radius: 16px;" alt="GitHub Activity Graph" />
   </div>
 
   <hr>
@@ -293,12 +293,12 @@
 
   <!-- FAVORITE REPOS -->
   <h2>⭐ My Favorite GitHub Repos</h2>
-  <p>See <a href="https://github.com/Huzaifaahemdbhutto/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.</p>
+  <p>See <a href="https://github.com/Huzaifaahmedbhutto/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.</p>
 
   <!-- SNAKE GIF -->
   <h2>🐍 My GitHub Contributions</h2>
   <div align="center">
-    <img src="https://github.com/Huzaifaahemdbhutto/Huzaifaahemdbhutto/blob/output/github-snake.svg" alt="snake gif" style="max-width:100%; background:#0a0c15; border-radius: 20px;" />
+    <img src="https://github.com/Huzaifaahmedbhutto/Huzaifaahmedbhutto/blob/output/github-snake.svg" alt="snake gif" style="max-width:100%; background:#0a0c15; border-radius: 20px;" />
   </div>
 
   <hr>
@@ -330,5 +330,5 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎮 Number Guessing Game | Python game with 3 levels & hints | [GitHub](https://github.com/Huzaifaahemdbhutto/number-guessing-game) |
-| 📊 Student Grade Calculator | Grade calculator with remarks | [GitHub](https://github.com/Huzaifaahemdbhutto/students-grade-calculator) |
+| 🎮 Number Guessing Game | Python game with 3 levels & hints | [GitHub](https://github.com/Huzaifaahmedbhutto/number-guessing-game) |
+| 📊 Student Grade Calculator | Grade calculator with remarks | [GitHub](https://github.com/Huzaifaahmedbhutto/students-grade-calculator) |
